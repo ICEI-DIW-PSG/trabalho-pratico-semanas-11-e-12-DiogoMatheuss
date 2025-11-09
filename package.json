@@ -5,12 +5,21 @@
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "start": "npx json-server --static ./public ./db/db.json"
+=======
+    "start": "npx json-server ./db/db.json"
+>>>>>>> 2bd66c051c3dee7189c5940c1b883d44883606aa
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "devDependencies": {
     "json-server": "^1.0.0-beta.3"
+=======
+  "dependencies": {
+    "json-server": "0.17.0"
+>>>>>>> 2bd66c051c3dee7189c5940c1b883d44883606aa
   }
 }

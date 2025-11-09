@@ -6,15 +6,23 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
+<<<<<<< HEAD
 - Nome: Diogo Matheus
 - Matricula: 903817
 - Proposta de projeto escolhida: Temas e Conteúdos Associados
 - Breve descrição sobre seu projeto: One piece q é um anime/manga e seus personagens
+=======
+- Nome:
+- Matricula:
+- Proposta de projeto escolhida:
+- Breve descrição sobre seu projeto:
+>>>>>>> 2bd66c051c3dee7189c5940c1b883d44883606aa
 
 **Print dos testes da API com Postman ou similar**
 
 << COLOQUE A IMAGEM GET AQUI >>
 
+<<<<<<< HEAD
 ![get](/public/print/get.png)
 
 
@@ -33,13 +41,24 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 ![delete](/public/print/delete.png)
 
 
+=======
+<< COLOQUE A IMAGEM POST AQUI >>
+
+<< COLOQUE A IMAGEM PUT AQUI >>
+
+<< COLOQUE A IMAGEM DELETE AQUI >>
+
+>>>>>>> 2bd66c051c3dee7189c5940c1b883d44883606aa
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
 <<  COLOQUE A IMAGEM AQUI >>
 
+<<<<<<< HEAD
 ![network](/public/print/network.png)
 
 
+=======
+>>>>>>> 2bd66c051c3dee7189c5940c1b883d44883606aa
 ## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:
