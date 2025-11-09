@@ -1,0 +1,140 @@
+{
+  "personagens": [
+    {
+      "id": 1,
+      "nome": "Monkey D. Luffy",
+      "funcao": "Capitão",
+      "sonho": "Se tornar o Rei dos Piratas",
+      "habilidade": "Fruta Gomu Gomu no Mi (Homem-Borracha)",
+      "recompensa": "3.000.000.000 Berries",
+      "imagem": "assets/img/luffy.png",
+      "descricao_curta": "Capitão dos Chapéus de Palha e futuro Rei dos Piratas.",
+      "descricao_completa": "Luffy é o protagonista da série, conhecido por sua personalidade alegre e seu desejo inabalável de liberdade. Comeu a Fruta do Diabo Gomu Gomu no Mi, transformando seu corpo em borracha. Sua busca pelo One Piece é a força motriz da história.",
+      "secundarios": [
+        { "id": 1, "nome": "Gear Second", "descricao": "Aumento temporário de velocidade e força.", "imagem": "assets/img/luffy1.jpeg" },
+        { "id": 2, "nome": "Gear Third", "descricao": "Ataques maciços com membros inflados.", "imagem": "assets/img/luffy2.jpg" },
+        { "id": 3, "nome": "Gear Fourth (Boundman)", "descricao": "Combinação de Haki do Armamento e elasticidade.", "imagem": "assets/img/luffy3.jpg" },
+        { "id": 4, "nome": "Gear Fourth (Snakeman)", "descricao": "Forma focada em velocidade e ataques de longa distância.", "imagem": "assets/img/luffy4.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Roronoa Zoro",
+      "funcao": "Espadachim",
+      "sonho": "Ser o maior Espadachim do mundo",
+      "habilidade": "Estilo Santoryu (Três Espadas)",
+      "recompensa": "1.111.000.000 Berries",
+      "imagem": "assets/img/zoro.jpg",
+      "descricao_curta": "Espadachim que sonha em ser o melhor do mundo.",
+      "descricao_completa": "Zoro foi o primeiro membro a se juntar a Luffy. Ele usa o estilo de luta Santoryu, manejando três espadas simultaneamente. Apesar de seu senso de direção terrível, ele é um lutador leal e determinado a cumprir seu voto.",
+      "secundarios": [
+        { "id": 1, "nome": "Wado Ichimonji", "descricao": "Uma das 21 O Wazamono. É a espada mais importante para Zoro.", "imagem": "assets/img/zoro1.jpg" },
+        { "id": 2, "nome": "Shusui", "descricao": "Espada lendária, originalmente pertencente a Ryuma. Uma O Wazamono.", "imagem": "assets/img/zoro2.jpg" },
+        { "id": 3, "nome": "Enma", "descricao": "Substituta da Shusui, conhecida por drenar o Haki do usuário.", "imagem": "assets/img/zoro3.jpg" },
+        { "id": 4, "nome": "Ashura", "descricao": "Técnica que materializa a aura de Zoro em uma forma de três cabeças e seis braços.", "imagem": "assets/img/zoro4.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Sanji",
+      "funcao": "Cozinheiro",
+      "sonho": "Encontrar o All Blue",
+      "habilidade": "Estilo de luta com as pernas (Black Leg)",
+      "recompensa": "1.032.000.000 Berries",
+      "imagem": "assets/img/sanji.jpg",
+      "descricao_curta": "Cozinheiro que busca o mar lendário All Blue.",
+      "descricao_completa": "Sanji é o cozinheiro da tripulação, com uma regra de nunca usar as mãos para lutar, protegendo-as para cozinhar. Seu sonho é encontrar o All Blue, um mar lendário onde peixes de todos os oceanos se reúnem.",
+      "secundarios": [
+        { "id": 1, "nome": "Diable Jambe", "descricao": "Chama a perna para aumentar o poder de ataque e velocidade.", "imagem": "assets/img/sanji1.jpg" },
+        { "id": 2, "nome": "Hell Memories", "descricao": "Ataque flamejante poderoso que incendeia o alvo.", "imagem": "assets/img/sanji2.jpg" },
+        { "id": 3, "nome": "Sky Walk", "descricao": "Técnica que permite chutar o ar para 'caminhar' no céu.", "imagem": "assets/img/sanji3.jpg" },
+        { "id": 4, "nome": "Jarra Vinsmoke", "descricao": "Exoesqueleto ativado pelo traje, aumentando velocidade e defesa.", "imagem": "assets/img/sanji4.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Nami",
+      "funcao": "Navegadora/Cartógrafa",
+      "sonho": "Mapear o mundo inteiro",
+      "habilidade": "Controle climático (Clima-Tact)",
+      "recompensa": "366.000.000 Berries",
+      "imagem": "assets/img/nami.jpg",
+      "descricao_curta": "Cartógrafa que deseja mapear o mundo inteiro.",
+      "descricao_completa": "Nami é a navegadora e cartógrafa da tripulação. Possui uma habilidade incrível para prever o clima e é responsável pela navegação precisa nos mares perigosos. Seu objetivo é desenhar um mapa completo de todo o mundo.",
+      "secundarios": [
+        { "id": 1, "nome": "Clima-Tact", "descricao": "Arma que permite criar bolhas de clima para manipular o tempo.", "imagem": "assets/img/nami1.jpg" },
+        { "id": 2, "nome": "Perfect Clima-Tact", "descricao": "Versão melhorada, mais potente, capaz de criar fenômenos complexos.", "imagem": "assets/img/nami2.jpg" },
+        { "id": 3, "nome": "Thunder Lance Tempo", "descricao": "Técnica poderosa que cria uma lança concentrada de eletricidade.", "imagem": "assets/img/nami3.jpg" },
+        { "id": 4, "nome": "Zeus (Nuvem Viva)", "descricao": "Homie de Big Mom incorporado ao Clima-Tact, manipulando tempestades.", "imagem": "assets/img/nami4.jpg" }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Usopp",
+      "funcao": "Atirador/Sniper",
+      "sonho": "Se tornar um Bravo Guerreiro dos Mares",
+      "habilidade": "Mira Perfeita, Kabuto e Pop Greens",
+      "recompensa": "200.000.000 Berries",
+      "imagem": "assets/img/usopp.jpg",
+      "descricao_curta": "Atirador que sonha em ser um Bravo Guerreiro do Mar.",
+      "descricao_completa": "Usopp é o atirador da tripulação, conhecido por sua mira perfeita e por usar o estilingue Kabuto e munições especiais chamadas Pop Greens. Inicialmente covarde, ele demonstra coragem inabalável quando seus amigos estão em perigo. Despertou o Haki da Observação em Dressrosa.",
+      "secundarios": [
+        { "id": 1, "nome": "Kabuto (Estilingue)", "descricao": "Arma principal pós-timeskip, que usa a força das Pop Greens.", "imagem": "assets/img/usopp1.jpg" },
+        { "id": 2, "nome": "Pop Green: Sargasso", "descricao": "Cria algas gigantes para imobilizar estruturas e adversários.", "imagem": "assets/img/usopp2.jpg" },
+        { "id": 3, "nome": "Pop Green: Impact Wolf", "descricao": "Planta que assume a forma de um lobo e causa dano de impacto no alvo.", "imagem": "assets/img/usopp3.jpg" },
+        { "id": 4, "nome": "Haki da Observação", "descricao": "Permite enxergar a aura das pessoas a longas distâncias, aprimorando sua mira.", "imagem": "assets/img/usopp4.jpg" }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Franky",
+      "funcao": "Carpinteiro Naval",
+      "sonho": "Construir o navio que navegará até o fim do mundo (Thousand Sunny)",
+      "habilidade": "Cyborg (Franky House), Arsenal de Armas e Cola como Combustível",
+      "recompensa": "394.000.000 Berries",
+      "imagem": "assets/img/frank.jpg",
+      "descricao_curta": "Carpinteiro Cyborg do bando e criador do Thousand Sunny.",
+      "descricao_completa": "Franky é um Cyborg de Water 7 e o carpinteiro naval do bando. Ele construiu o navio Thousand Sunny, usando a melhor madeira Adam. Seu corpo é cheio de armas e mecanismos movidos a Cola. Seu objetivo é construir um navio que sobreviva a toda a jornada e que o faça se orgulhar como carpinteiro.",
+      "secundarios": [
+        { "id": 1, "nome": "Coup de Vent", "descricao": "Técnica mais poderosa, dispara uma rajada maciça de ar comprimido.", "imagem": "assets/img/franky1.jpg" },
+        { "id": 2, "nome": "Franky Shogun", "descricao": "Robô gigante (Meca) que Franky pilota, feito de Wakazamurai.", "imagem": "assets/img/franky2.jpg" },
+        { "id": 3, "nome": "Strong Right", "descricao": "Um soco potente disparado do seu punho direito, que é acoplado por uma corrente.", "imagem": "assets/img/franky3.jpg" },
+        { "id": 4, "nome": "Radical Beam", "descricao": "Dispara um poderoso raio laser, similar ao dos Pacifistas.", "imagem": "assets/img/franky4.jpg" }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "Tony Tony Chopper",
+      "funcao": "Médico",
+      "sonho": "Encontrar a cura para todas as doenças e ser um pirata que pode curar o mundo",
+      "habilidade": "Fruta Hito Hito no Mi (Fruta do Humano), Múltiplas Transformações e Medicina",
+      "recompensa": "1.000 Berries",
+      "imagem": "assets/img/chopper.jpg",
+      "descricao_curta": "A rena de nariz azul e médico do navio.",
+      "descricao_completa": "Chopper é uma rena de nariz azul que comeu a Hito Hito no Mi (Fruta do Humano), o que lhe deu a capacidade de se transformar em várias formas. Ele é o médico do navio e foi treinado pelo Dr. Hiriluk e pela Dr. Kureha. Seu principal sonho é encontrar a cura para todas as doenças do mundo, tornando-se o melhor médico pirata.",
+      "secundarios": [
+        { "id": 1, "nome": "Brain Point", "descricao": "Sua forma base (pequena e inteligente), ideal para estratégias e diagnóstico.", "imagem": "assets/img/chopper1.jpg" },
+        { "id": 2, "nome": "Horn Point", "descricao": "Forma com chifres grandes e afiados, usada para perfurar ou arremessar inimigos.", "imagem": "assets/img/chopper2.jpg" },
+        { "id": 3, "nome": "Arm Point", "descricao": "Forma com braços musculosos, que concentra sua força para socos devastadores.", "imagem": "assets/img/chopper3.jpg" },
+        { "id": 4, "nome": "Monster Point", "descricao": "Sua transformação mais poderosa, um gigante monstruoso com força esmagadora.", "imagem": "assets/img/chopper4.jpg" }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Jinbe",
+      "funcao": "Timoneiro",
+      "sonho": "Cumprir o último desejo da Rainha Otohime e garantir a coexistência pacífica entre tritões e humanos.",
+      "habilidade": "Karatê Tritão, Jujutsu Tritão, Domínio do Mar e Haki de Armamento/Observação",
+      "recompensa": "1.100.000.000 Berries",
+      "imagem": "assets/img/jinbe.jpg",
+      "descricao_curta": "O Cavaleiro do Mar, mestre timoneiro e tritão tubarão-baleia.",
+      "descricao_completa": "Jinbe é um tritão tubarão-baleia, ex-Shichibukai e um mestre no Karatê Tritão e Jujutsu Tritão. Ele é incrivelmente forte, sendo capaz de manipular a água (incluindo a água no corpo de seus inimigos) para ataques poderosos. Como timoneiro, é incomparável em navegação, especialmente em mares agitados. Sua entrada na tripulação marca a realização de uma promessa antiga a Luffy.",
+      "secundarios": [
+        { "id": 1, "nome": "Karatê Tritão", "descricao": "Estilo de luta que permite a Jinbe golpear a água e causar ondas de choque poderosas, atingindo oponentes à distância.", "imagem": "assets/img/jinbe1.jpg" },
+        { "id": 2, "nome": "Jujutsu Tritão", "descricao": "Arte marcial que permite a manipulação direta de grandes volumes de água, podendo agarrar e arremessar a água do mar.", "imagem": "assets/img/jinbe2.jpg" },
+        { "id": 3, "nome": "Soco de Água", "descricao": "Uma técnica onde ele soca o ar, enviando uma poderosa onda de choque através da umidade atmosférica.", "imagem": "assets/img/jinbe3.jpg" },
+        { "id": 4, "nome": "Timoneiro Mestre", "descricao": "Sua perícia em manobrar o navio é inigualável, sendo capaz de navegar o Thousand Sunny em condições extremas e usar o navio como arma.", "imagem": "assets/img/jinbe4.jpg" }
+      ]
+    }
+  ]
+}
